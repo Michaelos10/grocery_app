@@ -27,8 +27,7 @@ Steps:
   lib/
   ├──  data/              
          ├── models/ 		 → Data models (e.g., GroceryItem, ReviewItem)
-         
-         ├── data_sources/        → Static data (e.g., ProductData)
+         |── data_sources/      → Static data (e.g., ProductData)
          
   ├── domain/
   
