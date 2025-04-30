@@ -25,6 +25,7 @@ Steps:
 
  # App Structure:
   lib/
+  
   ├──  data/              
          ├── models/ 		 → Data models (e.g., GroceryItem, ReviewItem)
          |── data_sources/      → Static data (e.g., ProductData)
