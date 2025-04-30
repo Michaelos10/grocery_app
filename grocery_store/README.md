@@ -31,9 +31,13 @@ Steps:
          ├── data_sources/        → Static data (e.g., ProductData)
          
   ├── domain/
+  
   │    ├──  providers/     → State management (e.g., CartProvider, GroceryProvider)
+  
   ├── presentation/
+  
   │    ├── screens/       → UI screens (e.g., Home, Checkout)
+  
   
   │    ├──  widgets/       → Reusable components (e.g., searchBar)
   
