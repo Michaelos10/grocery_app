@@ -10,7 +10,7 @@ Requirements:
 
 Steps:
 1. Clone the repo
-   git clone https://github.com/Michaelos10/grocery_app/tree/main/grocery_store
+   git clone https://github.com/Michaelos10/grocery_app/
    cd grocery_store
 
 2. Install dependencies
